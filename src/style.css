@@ -157,7 +157,7 @@ body {
     z-index: 2;
 }
 
-.third-con {
+.navigation {
     display: flex;
     position: relative;
 }
