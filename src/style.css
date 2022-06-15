@@ -157,7 +157,7 @@ body {
     z-index: 2;
 }
 
-.navigation {
+#navigation {
     display: flex;
     position: relative;
 }
@@ -370,7 +370,7 @@ body {
     position: absolute;
 }
 
-.fourth-con {
+#ikea-effect {
     background: url(imgPr1/image\ 1.png) no-repeat;
     background-color: #F5F4F0;
     height: 905px;
@@ -466,7 +466,7 @@ body {
     position: absolute;
 }
 
-.fifth-con {
+#premature-optimization {
     background: url(imgPr1/image\ 1.png) no-repeat;
     background-color: #B09A81;
     height: 855px;
@@ -562,7 +562,7 @@ body {
     position: absolute;
 }
 
-.sixth-con {
+#distortion-of-novelty {
     background: url(imgPr1/image\ 1.png) no-repeat;
     background-color: #F5F4F0;
     height: 880px;
@@ -633,7 +633,7 @@ body {
     position: absolute;
 }
 
-.seventh-con {
+#hyperbolic-depreciation {
     background: url(imgPr1/image\ 1.png) no-repeat;
     background-color: #B09A81;
     height: 937px;
@@ -692,7 +692,7 @@ body {
     position: absolute;
 }
 
-.eighth-con {
+#errors-in-planning {
     background: url(imgPr1/image\ 1.png) no-repeat;
     background-color: #F5F4F0;
     height: 919px;
