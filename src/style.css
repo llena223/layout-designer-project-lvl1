@@ -376,6 +376,7 @@ body {
     height: 905px;
     width: 100%;
     position: relative;
+    vertical-align: middle;
 }
 
 .fourth-img-1-wrapper {
