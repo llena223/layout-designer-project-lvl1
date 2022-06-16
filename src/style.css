@@ -384,10 +384,10 @@ body {
 }
 
 .fourth-img-1 {
-    padding-top: 100px;
-    padding-right: 697px;
-    padding-bottom: 371px;
-    padding-left: 165px;
+    top: 100px;
+    right: 697px;
+    bottom: 371px;
+    left: 165px;
     vertical-align: middle;
     width: 578px;
     height: 434px;
