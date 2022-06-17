@@ -385,12 +385,13 @@ body {
 
 .fourth-img-1 {
     top: 100px;
-    right: 697px;
+    
     bottom: 371px;
     left: 165px;
     vertical-align: middle;
     width: 578px;
     height: 434px;
+    position: absolute; 
 }
 
 .fourth-img-2 {
